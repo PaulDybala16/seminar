@@ -1,299 +1,123 @@
-# Weekly seminars on risk management and actuarial science
+---
+layout: default
+---
 
-The weekly seminar series is a venue for international scholars in risk management and actuarial science to discuss research advances and exchange ideas. Junior researchers are the most encouraged to present their on-going research work. Currently, participants from Canada, China, US, and Europe are included. 
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-## Student organizers
-[Yang Liu](https://yang-liu16.github.io/) (Tsinghua University & University of Waterloo)
+[Link to another page](./another-page.html).
 
-Qiuqi Wang (University of Waterloo)
+There should be whitespace between paragraphs.
 
-## Faculty mentor
-[Dr. Ruodu Wang](http://sas.uwaterloo.ca/~wang/) (University of Waterloo) 
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-## Routine
-Time: 9pm-10pm, every Friday (Eastern Standard Time)
+# Header 1
 
-Zoom Link: [https://cernet.zoom.com.cn/j/67990545137](https://cernet.zoom.com.cn/j/67990545137)
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-Meeting ID：679 9054 5137
+## Header 2
 
-## Events
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
 
+### Header 3
 
-### Spring 2020
+```js
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+```
 
-Date: Sun, Apr 26, 2020
+```ruby
+# Ruby code with syntax highlighting
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
+```
 
-Time: 9:00pm-10:00pm
+#### Header 4
 
-Location: Online via Zoom
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
 
-Speaker: Yang Liu (Tsinghua University & University of Waterloo)
+##### Header 5
 
-Title: Primal bounds on quantile aggregation
+1.  This is an ordered list following a header.
+2.  This is an ordered list following a header.
+3.  This is an ordered list following a header.
 
+###### Header 6
 
-Date: Fri, May 1, 2020
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
 
-Time: 9:00pm-10:00pm
+### There's a horizontal rule below this.
 
-Location: Online via Zoom
+* * *
 
-Speaker: Qiuqi Wang (Department of Statistics and Actuarial Science, University of Waterloo)
+### Here is an unordered list:
 
-Title: Risk quadrangles
+*   Item foo
+*   Item bar
+*   Item baz
+*   Item zip
 
+### And an ordered list:
 
-Date: Fri, May 8, 2020
+1.  Item one
+1.  Item two
+1.  Item three
+1.  Item four
 
-Time: 9:00pm-10:00pm
+### And a nested list:
 
-Location: Online via Zoom
+- level 1 item
+  - level 2 item
+  - level 2 item
+    - level 3 item
+    - level 3 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+- level 1 item
 
-Speaker: Xing Wang (Department of Risk Management and Insurance, Georgia State University)
+### Small image
 
-Title: Extreme and inference for tail-Gini functionals with applications in tail risk management
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
+### Large image
 
-Date: Fri, May 15, 2020
-
-Time: 9:00pm-10:00pm
-
-Location: Online via Zoom
-
-Speaker: Peng Liu (Department of Statistics and Actuarial Science, University of Waterloo)
-
-Title: Functions operating on multivariate distributions
-
-
-Date: Sun, May 24, 2020
-
-Time: 9:00pm-10:00pm
-
-Location: Online via Zoom
-
-Speaker: Xia Han (School of Mathematical and Computer Science, Nanjing Normal University)
-
-Title: Minimizing the probability of absolute ruin under ambiguity aversion
-
-
-Date: Fri, May 29, 2020
-
-Time: 9:00pm-10:00pm
-
-Location: Online via Zoom
-
-Speaker: Liyuan Lin (Department of Statistics and Actuarial Science, University of Waterloo)
-
-Title: Self-consistency, subjective pricing, and a theory of credit rating
-
-
-Date: Fri, Jun 5, 2020
-
-Time: 9:00pm-10:00pm
-
-Location: Online via Zoom
-
-Speaker: Mingren Yin (Department of Statistics and Actuarial Science, University of Waterloo)
-
-Title: Risk measures based on behavioural economics theory
-
-### Winter 2020
-
-
-Date: Fri, Jan 3, 2020
-
-Time: 3:00pm-4:00pm
-
-Location: M3-3001, University of Waterloo
-
-Speaker: Yunran Wei (Department of Statistics and Actuarial Science, Northern Illinois University)
-
-Title: Risk management with non-convex and non-monotone preferences
-
-Date: Thu, Jan 9, 2020
-
-Time: 3:00pm-4:00pm
-
-Location: M3-3001, University of Waterloo
-
-Speaker: Yang Liu (Tsinghua University & University of Waterloo)
-
-Title: A method to check whether an n-tuple of distributions with two-step densities is JM
-
-
-Date: Thu, Jan 16, 2020
-
-Time: 3:00pm-4:00pm
-
-Location: M3-4206, University of Waterloo
-
-Speaker: Qiuqi Wang (Department of Statistics and Actuarial Science, University of Waterloo)
-
-Title: Optimizing distortion riskmetrics with distributional uncertainty
-
-
-Date: Thu, Jan 23, 2020
-
-Time: 3:00pm-4:00pm
-
-Location: M3-3001, University of Waterloo
-
-Speaker: Mingren Yin (Department of Statistics and Actuarial Science, University of Waterloo)
-
-Title: Risk measures derived from a regulator’s perspective on the regulatory capital requirements for insurers
-
-Date: Thu, Jan 30, 2020
-
-Time: 3:00pm-4:00pm
-
-Location: M3-3001, University of Waterloo
-
-Speaker: Xiaole Xue (Department of Statistics and Actuarial Science, University of Waterloo)
-
-Title: Minimax pricing and Choquet pricing
-
-
-Date: Thu, Feb 6, 2020
-
-Time: 4:00pm-5:00pm
-
-Location: M3-3001, University of Waterloo
-
-Speaker: Yuyu Chen (Department of Statistics and Actuarial Science, University of Waterloo)
-
-Title: Trade-off between anytime- and sometime-safe methods for merging p-values
-
-
-Date: Thu, Feb 13, 2020
-
-Time: 3:00pm-4:00pm
-
-Location: M3-3001, University of Waterloo
-
-Speaker: Peng Liu (Department of Statistics and Actuarial Science, University of Waterloo)
-
-Title: Is the inf-convolution of law-invariant preferences law-invariant?
-
-Date: Tue, Feb 25, 2020
-
-Time: 3:00pm-4:00pm
-
-Location: M3-3001, University of Waterloo
-
-Speaker: Mengyi Xu (School of Risk and Actuarial Studies, UNSW Business School)
-
-Title: Retirement planning with systematic disability and mortality risk
-
-Date: Thu, Mar 5, 2020
-
-Time: 3:00pm-4:00pm
-
-Location: M3-3001, University of Waterloo
-
-Speaker: Yang Liu (Department of Statistics and Actuarial Science, University of Waterloo)
-
-Title: Bounds on quantile aggregation
-
-
-Date: Thu, Mar 12, 2020
-
-Time: 3:00pm-4:00pm
-
-Location: M3-3001, University of Waterloo
-
-Speaker: Liyuan Lin (Department of Statistics and Actuarial Science, University of Waterloo)
-
-Title: An axiomatic foundation of the Expected Shortfall
-
-
-
-### Fall 2019
-
-Date: Tue, Oct 29, 2019
-
-Time: 4:00pm-6:00pm
-
-Location: M3-4206, University of Waterloo
-
-Speaker I: Qiuqi Wang (Department of Statistics and Actuarial Science, University of Waterloo)  
-
-Title I: Signed Choquet integrals on L^p spaces 
-
-Speaker II: Yang Liu
-
-Title II: On the ordering of aggregation sets
-
-Date: Tue, Nov 5, 2019
-
-Time: 3:00pm-5:00pm
-
-Location: M3-3001, University of Waterloo
-
-Speaker: Yuyu Chen (Department of Statistics and Actuarial Science, University of Waterloo)
-
-Title: Combining p-values via weighted harmonic averaging
-
-
-Date: Tue, Nov 12, 2019
-
-Time: 3:00pm-4:00pm
-
-Location: M3-3001, University of Waterloo
-
-Speaker: Qiuqi Wang (Department of Statistics and Actuarial Science, University of Waterloo)
-
-Title: Signed Choquet integrals on L^p spaces (continued)
-
-Date: Tue, Nov 19, 2019
-
-Time: 3:00pm-4:00pm
-
-Location: M3-3001, University of Waterloo
-
-Speaker: Tolulope Fadina (Department of Statistics and Actuarial Science, University of Waterloo)
-
-Title: Characterization of some risk measures
-
-Date: Tue, Nov 26, 2019
-
-Time: 3:00pm-4:00pm
-
-Location: M3-3001, University of Waterloo
-
-Speaker: Peng Liu (Department of Statistics and Actuarial Science, University of Waterloo)
-
-Title: General convex order on risk aggregation
-
-Date: Tue, Dec 3, 2019
-
-Time: 3:00pm-4:00pm
-
-Location: M3-3001, University of Waterloo
-
-Speaker: Takaaki Koike (Department of Statistics and Actuarial Science, University of Waterloo)
-
-Title: Capital Allocation of non-differentiable risk measures
-
-
-Date: Tue, Dec 10, 2019
-
-Time: 3:00pm-4:00pm
-
-Location: M3-3001, University of Waterloo
-
-Speaker: Xiaoxue Deng (Department of Statistics and Actuarial Science, University of Waterloo)
-
-Title: Robustness in the optimization of risk measures
-
-
-Date: Tue, Dec 17, 2019
-
-Time: 3:00pm-4:00pm
-
-Location: M3-3001, University of Waterloo
-
-Speaker: Liyuan Lin (Department of Statistics and Actuarial Science, University of Waterloo)
-
-Title: Stochastic Stackelberg differential reinsurance games under time-inconsistent mean-variance framework
-
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
+
+
+### Definition lists can be used with HTML syntax.
+
+<dl>
+<dt>Name</dt>
+<dd>Godzilla</dd>
+<dt>Born</dt>
+<dd>1952</dd>
+<dt>Birthplace</dt>
+<dd>Japan</dd>
+<dt>Color</dt>
+<dd>Green</dd>
+</dl>
+
+```
+Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+```
+
+```
+The final element.
+```

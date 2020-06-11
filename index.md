@@ -12,16 +12,14 @@ Qiuqi Wang (University of Waterloo)
 
 ## Venue
 
-Zoom Link: 
+Zoom Link: [https://cernet.zoom.com.cn/j/67990545137](https://cernet.zoom.com.cn/j/67990545137)
 
-ID: 
+Meeting ID：679 9054 5137
 
 ## Events
 
-```markdown
 
-
-## Spring 2020
+### Spring 2020
 
 Date: Sun, Apr 26, 2020
 
@@ -99,7 +97,7 @@ Speaker: Mingren Yin (Department of Statistics and Actuarial Science, University
 
 Title: Risk measures based on behavioural economics theory
 
-## Winter 2020
+### Winter 2020
 
 
 Date: Fri, Jan 3, 2020
@@ -209,7 +207,7 @@ Title: An axiomatic foundation of the Expected Shortfall
 
 
 
-## Fall 2019
+### Fall 2019
 
 Date: Tue, Oct 29, 2019
 
@@ -297,7 +295,4 @@ Location: M3-3001, University of Waterloo
 Speaker: Liyuan Lin (Department of Statistics and Actuarial Science, University of Waterloo)
 
 Title: Stochastic Stackelberg differential reinsurance games under time-inconsistent mean-variance framework
-
-
-```
 

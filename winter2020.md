@@ -91,7 +91,7 @@
 
 > Title: Bounds on quantile aggregation
 >
-> Speaker: Yang Liu (Department of Statistics and Actuarial Science, University of Waterloo)
+> Speaker: Yang Liu (Tsinghua University & University of Waterloo)
 >
 > Time: 3:00pm-4:00pm, Mar 5 (Thu)
 > 
@@ -102,7 +102,7 @@
 
 > Title: An axiomatic foundation of the Expected Shortfall
 >
-> Speaker: Liyuan Lin (Department of Statistics and Actuarial Science, University of Waterloo)
+> Speaker: Liyuan Lin (Central University of Finance and Economics & University of Waterloo)
 >
 > Time: 3:00pm-4:00pm, Mar 12 (Thu)
 >

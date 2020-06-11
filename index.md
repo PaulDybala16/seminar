@@ -1,4 +1,4 @@
-## Weekly seminars on risk management and actuarial science
+# Weekly seminars on risk management and actuarial science
 
 The weekly seminar series is a venue for international scholars in risk management and actuarial science to discuss research advances and exchange ideas. Junior researchers are the most encouraged to present their on-going research work. Currently, participants from Canada, China, US, and Europe are included. 
 
@@ -16,18 +16,31 @@ Zoom Link:
 
 ID: 
 
-### Events
+## Events
 
-1. Mingren Yin (U of Waterloo)
-Date:
-Title:
-Abstract:
+```markdown
 
-2. Yuyu Chen (U of Waterloo)
-Date:
-Title:
-Abstract:
+1. 
 
+- Mingren Yin (U of Waterloo)
+
+- Date:
+
+- Title:
+
+- Abstract:
+
+2. 
+
+- Yuyu Chen (U of Waterloo)
+
+- Date:
+
+- Title:
+
+- Abstract:
+
+```
 
 ### Markdown
 

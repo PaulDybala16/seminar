@@ -19,7 +19,7 @@ Meeting ID：679 9054 5137
 
 ## Events
 
-[Spring 2020](./spring2020.html)
+[Spring 2020](./spring2020.md)
 
 [Winter 2020](./winter2020.html)
 

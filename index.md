@@ -8,7 +8,7 @@ The weekly seminar series is a venue for international scholars in risk manageme
 Qiuqi Wang (University of Waterloo)
 
 ## Faculty mentor
-[Dr. Ruodu Wang] (http://sas.uwaterloo.ca/~wang/) (University of Waterloo) 
+[Dr. Ruodu Wang](http://sas.uwaterloo.ca/~wang/) (University of Waterloo) 
 
 ## Venue
 

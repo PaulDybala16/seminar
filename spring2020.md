@@ -62,7 +62,7 @@
 
 > Title: Self-consistency, subjective pricing, and a theory of credit rating
 >
-> Speaker: Liyuan Lin (Department of Statistics and Actuarial Science, University of Waterloo)
+> Speaker: Liyuan Lin (Central University of Finance and Economics & University of Waterloo)
 > 
 > Time: 9:00pm-10:00pm, May 29 (Fri)
 >

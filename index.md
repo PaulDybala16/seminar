@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Weekly seminars on risk management and actuarial science
 
-You can use the [editor on GitHub](https://github.com/PaulDybala16/seminar.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The weekly seminar series is a venue for international scholars in risk management and actuarial science to discuss research advances and exchange ideas. Junior researchers are the most encouraged to present their on-going research work. Currently, participants from Canada, China, US, and Europe are included. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Student organizers: Yang Liu (Tsinghua University & University of Waterloo), Qiuqi Wang (University of Waterloo)
+## Faculty mentor: Ruodu Wang (University of Waterloo) 
 
 ### Markdown
 

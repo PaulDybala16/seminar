@@ -10,10 +10,9 @@ Qiuqi Wang (University of Waterloo)
 ## Faculty mentor
 [Dr. Ruodu Wang](http://sas.uwaterloo.ca/~wang/) (University of Waterloo) 
 
-## Venue
-
+## Routine
+Time: 9pm-10pm, every Friday (Eastern Standard Time)
 Zoom Link: [https://cernet.zoom.com.cn/j/67990545137](https://cernet.zoom.com.cn/j/67990545137)
-
 Meeting ID：679 9054 5137
 
 ## Events

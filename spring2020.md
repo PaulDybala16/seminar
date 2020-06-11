@@ -1,23 +1,45 @@
 ## Weekly seminars: Spring 2020
 
-### Apr 26
+### Jun 5
 
-> Title: Primal bounds on quantile aggregation
+> Title: Risk measures based on behavioural economics theory
 >
-> Speaker: Yang Liu (Tsinghua University & University of Waterloo)
+> Speaker: Mingren Yin (Department of Statistics and Actuarial Science, University of Waterloo)
 >
-> Time: 9:00pm-10:00pm, Apr 26 (Sun)
+> Time: 9:00pm-10:00pm, Jun 5 (Fri)
+> 
+> Location: Online via Zoom
+
+
+### May 29
+
+> Title: Self-consistency, subjective pricing, and a theory of credit rating
+>
+> Speaker: Liyuan Lin (Central University of Finance and Economics & University of Waterloo)
+> 
+> Time: 9:00pm-10:00pm, May 29 (Fri)
 >
 > Location: Online via Zoom
 
 
-### May 1
+### May 24
 
-> Title: Risk quadrangles
+> Title: Minimizing the probability of absolute ruin under ambiguity aversion
 >
-> Speaker: Qiuqi Wang (Department of Statistics and Actuarial Science, University of Waterloo)
+> Speaker: Xia Han (School of Mathematical and Computer Science, Nanjing Normal University)
 >
-> Time: 9:00pm-10:00pm, May 1 (Fri) 
+> Time: 9:00pm-10:00pm, May 24 (Sun), 2020
+>
+> Location: Online via Zoom
+
+
+### May 15
+
+> Title: Functions operating on multivariate distributions
+> 
+> Speaker: Peng Liu (Department of Statistics and Actuarial Science, University of Waterloo)
+> 
+> Time: 9:00pm-10:00pm, May 15 (Fri)
 >
 > Location: Online via Zoom
 
@@ -33,45 +55,24 @@
 > Location: Online via Zoom
 
 
-### May 15
+### May 1
 
-> Title: Functions operating on multivariate distributions
-> 
-> Speaker: Peng Liu (Department of Statistics and Actuarial Science, University of Waterloo)
-> 
-> Time: 9:00pm-10:00pm, May 15 (Fri)
+> Title: Risk quadrangles
 >
-> Location: Online via Zoom
-
-### May 24
-
-> Title: Minimizing the probability of absolute ruin under ambiguity aversion
+> Speaker: Qiuqi Wang (Department of Statistics and Actuarial Science, University of Waterloo)
 >
-> Speaker: Xia Han (School of Mathematical and Computer Science, Nanjing Normal University)
->
-> Time: 9:00pm-10:00pm, May 24 (Sun), 2020
+> Time: 9:00pm-10:00pm, May 1 (Fri) 
 >
 > Location: Online via Zoom
 
 
+### Apr 26
 
-### May 29
-
-> Title: Self-consistency, subjective pricing, and a theory of credit rating
+> Title: Primal bounds on quantile aggregation
 >
-> Speaker: Liyuan Lin (Central University of Finance and Economics & University of Waterloo)
-> 
-> Time: 9:00pm-10:00pm, May 29 (Fri)
+> Speaker: Yang Liu (Tsinghua University & University of Waterloo)
 >
-> Location: Online via Zoom
-
-### Jun 5
-
-> Title: Risk measures based on behavioural economics theory
+> Time: 9:00pm-10:00pm, Apr 26 (Sun)
 >
-> Speaker: Mingren Yin (Department of Statistics and Actuarial Science, University of Waterloo)
->
-> Time: 9:00pm-10:00pm, Jun 5 (Fri)
-> 
 > Location: Online via Zoom
 

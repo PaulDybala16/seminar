@@ -1,7 +1,7 @@
 ## Weekly seminars: Winter 2020
 
 
-### Mar 12, 2020
+### Mar 12
 
 > Title: An axiomatic foundation of the Expected Shortfall
 >

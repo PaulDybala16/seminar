@@ -1,7 +1,4 @@
-# Weekly seminars on risk management and actuarial science
-
-
-## Spring 2020
+## Weekly seminars: Spring 2020
 
 ### Apr 26
 

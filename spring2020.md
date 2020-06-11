@@ -1,20 +1,23 @@
 # Weekly seminars on risk management and actuarial science
 
 
-## Events
+## Spring 2020
+
+### Sun, Apr 26, 2020
+
+> Title: Primal bounds on quantile aggregation
+>
+> Speaker: Yang Liu (Tsinghua University & University of Waterloo)
+>
+> Date: Sun, Apr 26, 2020
+>
+> Time: 9:00pm-10:00pm
+>
+> Location: Online via Zoom
 
 
-### Spring 2020
 
-Date: Sun, Apr 26, 2020
 
-Time: 9:00pm-10:00pm
-
-Location: Online via Zoom
-
-Speaker: Yang Liu (Tsinghua University & University of Waterloo)
-
-Title: Primal bounds on quantile aggregation
 
 
 Date: Fri, May 1, 2020

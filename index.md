@@ -2,8 +2,11 @@
 
 The weekly seminar series is a venue for international scholars in risk management and actuarial science to discuss research advances and exchange ideas. Junior researchers are the most encouraged to present their on-going research work. Currently, participants from Canada, China, US, and Europe are included. 
 
-## Student organizers: Yang Liu (Tsinghua University & University of Waterloo), Qiuqi Wang (University of Waterloo)
-## Faculty mentor: Ruodu Wang (University of Waterloo) 
+## Student organizers
+Yang Liu (Tsinghua University & University of Waterloo), Qiuqi Wang (University of Waterloo)
+
+## Faculty mentor
+Ruodu Wang (University of Waterloo) 
 
 ## Venue
 Zoom Link: 

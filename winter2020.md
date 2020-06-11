@@ -1,16 +1,4 @@
-## Spring 2020
-
-### Apr 26
-
-> Title: Primal bounds on quantile aggregation
->
-> Speaker: Yang Liu (Tsinghua University & University of Waterloo)
->
-> Time: 9:00pm-10:00pm, Apr 26 (Sun)
->
-> Location: Online via Zoom
-
-## Winter 2020
+## Weekly seminars: Winter 2020
 
 
 ### Jan 3, 2020

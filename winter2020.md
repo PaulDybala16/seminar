@@ -1,7 +1,7 @@
 ## Weekly seminars: Winter 2020
 
 
-### Mar 12
+### Mar 12, 2020
 
 > Title: An axiomatic foundation of the Expected Shortfall
 >
@@ -100,7 +100,7 @@
 > Location: M3-3001, University of Waterloo
 
 
-### Jan 3, 2020
+### Jan 3
 
 > Title: Risk management with non-convex and non-monotone preferences
 > 
